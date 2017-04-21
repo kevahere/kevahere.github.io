@@ -1,0 +1,42 @@
+.intro {
+  font-size: 65px;
+  font-family: 'Days One', sans-serif;
+}
+
+body {
+  margin: 30px;
+  padding: 40px;
+  border: 2px;
+  border-color: white;
+  background-color: black;
+  color: white;
+  font-size: 24px;
+}
+
+.right {
+  float: right;
+  width: 50%
+}
+
+.left {
+  float: left;
+  width: 50%
+}
+
+.content {
+  float: left;
+  width: 100%;
+}
+
+em {
+  font-size: 30px;
+  font-family: 'Days One', sans-serif;
+}
+
+img {
+  border-radius: 10px;
+  border-color: white;
+}
+.interests{
+  float: right;
+}
